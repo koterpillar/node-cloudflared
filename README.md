@@ -1,4 +1,9 @@
-# cloudflared
+# (fork of) cloudflared
+
+This is a fork of the original
+[node-cloudflared](https://github.com/JacobLinCool/node-cloudflared/) that fixes
+[#21](https://github.com/JacobLinCool/node-cloudflared/issues/21). It is
+published as `@koterpillar/cloudflared` on npm.
 
 A Node.js package that allows you to easily create HTTPS tunnels using Cloudflare's `cloudflared` command-line tool. It provides a typed API for creating tunnels and managing the `cloudflared` binary installation.
 

@@ -1,6 +1,6 @@
 {
   "$schema": "https://unpkg.com/@changesets/config@2.3.1/schema.json",
-  "changelog": ["@changesets/changelog-github", { "repo": "JacobLinCool/node-cloudflared" }],
+  "changelog": ["@changesets/changelog-github", { "repo": "koterpillar/node-cloudflared" }],
   "commit": false,
   "fixed": [],
   "linked": [],
