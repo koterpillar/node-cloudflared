@@ -19,6 +19,9 @@ importers:
             "@eslint/js":
                 specifier: ^9.8.0
                 version: 9.8.0
+            "@koterpillar/cloudflared":
+                specifier: workspace:*
+                version: "link:"
             "@types/node":
                 specifier: ^22.1.0
                 version: 22.1.0
@@ -31,9 +34,6 @@ importers:
             changeset:
                 specifier: ^0.2.6
                 version: 0.2.6
-            cloudflared:
-                specifier: workspace:*
-                version: "link:"
             eslint:
                 specifier: ^9.8.0
                 version: 9.8.0
