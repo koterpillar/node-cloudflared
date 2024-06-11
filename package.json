@@ -1,5 +1,5 @@
 {
-    "name": "cloudflared",
+    "name": "@koterpillar/cloudflared",
     "version": "0.6.0",
     "description": "Cloudflared in Node. Which allows you to easily create HTTPS tunnels using Cloudflare's cloudflared. It provides a typed API for creating tunnels and managing the cloudflared binary installation.",
     "main": "./lib/lib.js",
@@ -48,13 +48,13 @@
         "typescript": "^5.5.4",
         "vitest": "^2.0.5"
     },
-    "homepage": "https://github.com/JacobLinCool/node-cloudflared#readme",
+    "homepage": "https://github.com/koterpillar/node-cloudflared#readme",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/JacobLinCool/node-cloudflared.git"
+        "url": "git+https://github.com/koterpillar/node-cloudflared.git"
     },
     "bugs": {
-        "url": "https://github.com/JacobLinCool/node-cloudflared/issues"
+        "url": "https://github.com/koterpillar/node-cloudflared/issues"
     },
     "packageManager": "pnpm@9.6.0"
 }
