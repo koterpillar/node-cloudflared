@@ -1,5 +1,11 @@
 # cloudflared
 
+## 0.8.0
+
+### Minor Changes
+
+- [`94a4067`](https://github.com/koterpillar/node-cloudflared/commit/94a4067cfc321587f5933ecad763b23cbeabf2a3) Thanks [@koterpillar](https://github.com/koterpillar)! - Try installing the binary on package install
+
 ## 0.7.0
 
 ### Minor Changes
