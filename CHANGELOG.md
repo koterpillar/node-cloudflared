@@ -1,5 +1,11 @@
 # cloudflared
 
+## 0.7.0
+
+### Minor Changes
+
+- [`c4db815`](https://github.com/koterpillar/node-cloudflared/commit/c4db815b0821882edee5b6ed12013d16bf93c21c) Thanks [@koterpillar](https://github.com/koterpillar)! - Don't fail package installation if binary can't be run
+
 ## 0.6.0
 
 ### Minor Changes
