@@ -1,5 +1,11 @@
 # cloudflared
 
+## 0.7.0
+
+### Minor Changes
+
+- [#32](https://github.com/JacobLinCool/node-cloudflared/pull/32) [`a095103`](https://github.com/JacobLinCool/node-cloudflared/commit/a0951031406b09a395e67ebb9dab8f3b79e6c9a2) Thanks [@koterpillar](https://github.com/koterpillar)! - Don't fail package installation if binary can't be run
+
 ## 0.6.0
 
 ### Minor Changes
