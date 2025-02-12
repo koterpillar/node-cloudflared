@@ -12,7 +12,7 @@
         "docs": "typedoc ./src/lib.ts",
         "format": "prettier --write '**/*.{js,ts,jsx,tsx,json,yml,yaml,md,html}' --ignore-path .gitignore",
         "lint": "eslint .",
-        "postinstall": "node scripts/postinstall.mjs && node lib/cloudflared.js -v",
+        "postinstall": "node scripts/postinstall.mjs && node lib/cloudflared.js bin install latest",
         "changeset": "changeset"
     },
     "keywords": [
